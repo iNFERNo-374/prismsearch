@@ -129,4 +129,4 @@ I'm always open to ideas, suggestions, and collaborations! If you have thoughts 
 
  Email: bchoudhari374@gmail.com
 
-If you find this project useful, consider giving it a  on GitHub!
+If you find this project useful, consider giving it a star ⭐ on GitHub!
