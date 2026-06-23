@@ -112,3 +112,21 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
 - `npm run build` - Compiles the production build
 - `npm run start` - Starts the production server
 - `npm run lint` - Runs ESLint to check for code quality issues
+
+---
+
+## Future Development
+
+PrismSearch is actively being developed. Planned improvements include:
+- Replacing RapidAPI JSearch with a more robust job search integration
+- Adding DOCX resume support alongside PDF
+- Voice-based mock interview module
+- OAuth authentication (Google, GitHub)
+- Location-based job filters for Indian market
+- Resume version history and comparison
+
+I'm always open to ideas, suggestions, and collaborations! If you have thoughts on how to improve PrismSearch or want to contribute, feel free to reach out:
+
+ Email: bchoudhari374@gmail.com
+
+If you find this project useful, consider giving it a  on GitHub!
