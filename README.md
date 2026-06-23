@@ -130,3 +130,11 @@ I'm always open to ideas, suggestions, and collaborations! If you have thoughts 
  Email: bchoudhari374@gmail.com
 
 If you find this project useful, consider giving it a star ⭐ on GitHub!
+
+---
+
+## Team Members
+
+* Bhavesh Choudhari
+* Rohit Patil
+* Vaishnavi Chintale
