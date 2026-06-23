@@ -19,7 +19,7 @@
 
 PrismSearch is built as a full-stack web application with modern technologies:
 
-*   **Framework:** [Next.js 15](https://nextjs.org/) (App Router, Server Actions, Serverless API Routes)
+*   **Framework:** [Next.js 15](https://nextjs.org/) (App Router, Server-Actions, Serverless API Routes)
 *   **Language:** [TypeScript](https://www.typescriptlang.org/)
 *   **Styling & Design System:** [Tailwind CSS](https://tailwindcss.com/) with a premium warm cream and beige aesthetic (`#f5f1e6` background, `#a67c52` primary brown, Lora & Libre Baskerville serif typography)
 *   **Database & Auth:** [Supabase](https://supabase.com/) (PostgreSQL Database, Auth, Row Level Security, and Storage Buckets for PDF uploads)
