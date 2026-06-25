@@ -192,7 +192,7 @@ export async function GET(request: NextRequest) {
         job_id: m.jobs?.id ?? m.id,
         title: m.jobs?.title ?? "Unknown",
         company: m.jobs?.company ?? "Unknown",
-        location: null,
+        location: m.jobs?.location ?? m.location ?? "Unknown",
         match_score: m.match_score,
         matched_skills: m.matched_skills ?? [],
         missing_skills: m.missing_skills ?? [],
