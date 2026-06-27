@@ -207,4 +207,4 @@ Username flow:
 7. User fetches Job Matches → API calls RapidAPI → Gemini scores each job → top matches saved to job_matches table → dashboard job cards update
 8. User runs Job Alignment → API sends resume + JD to Gemini → alignment score returned
 9. User generates Interview Questions → API sends resume + target role to Gemini → questions saved to interview_sessions → dashboard progress bars update
-10. User logs out → Supabase session cleared → redirect to landing page
+10. User logs out → Supabase session cleared → redirect to landing page 
